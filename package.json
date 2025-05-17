@@ -1,0 +1,11 @@
+{
+    "name": "@quoriel/game",
+    "description": "Набор игровых функций для ForgeScript, позволяющий легко реализовать популярные мини-игры",
+    "version": "1.0.0",
+    "main": "src/main.js",
+    "author": "Mlad (https://github.com/eolthar)",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "@tryforge/forgescript": "^2.3.0"
+    }
+}
