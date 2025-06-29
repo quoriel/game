@@ -1,12 +1,12 @@
 # QuorielGame
-Набор вспомогательных игровых функций для **ForgeScript**, это дополнение предоставляет готовые инструменты для реализации популярных мини-игр.
+A collection of helper game functions for ForgeScript, offering ready-made tools for creating popular mini-games.
 
-## Установка
+## Installation
 ```
-npm i https://github.com/quoriel/game.git
+npm i github:quoriel/game
 ```
 
-## Подключение
+## Connection
 ```js
 const { ForgeClient } = require("@tryforge/forgescript");
 const { QuorielGame } = require("@quoriel/game");
